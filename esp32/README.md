@@ -1,0 +1,2 @@
+- Figure out how to turn sculpture off with low power
+- Come up with low power LED patterns
